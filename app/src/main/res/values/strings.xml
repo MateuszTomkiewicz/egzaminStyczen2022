@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rejestracja</string>
+    <string name="title_register">Rejestruj konto</string>
+    <string name="label_email">Podaj e-mail:</string>
+    <string name="hint_email">email</string>
+    <string name="label_password">Podaj hasło:</string>
+    <string name="label_repeat_password">Powtórz hasło:</string>
+    <string name="button_confirm">ZATWIERDŹ</string>
+    <string name="message_author">Autor Mateusz Tomkiewicz</string>
+    <string name="message_invalid_email">Nieprawidłowy adres e-mail</string>
+    <string name="message_passwords_differ">Hasła się różnią</string>
+    <string name="message_welcome">Witaj %1$s</string>
+</resources>
